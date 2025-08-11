@@ -4,7 +4,7 @@
 A ideia é simples: **você encontra o projeto, clica e já vai para o código ou para a versão online**, tudo de forma rápida, intuitiva e agradável.
 
 🔗 **Acesse o repositório completo:**  
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/DavidDevFull/Challenges)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/mdowglas/Challenges))
 
 ---
 
