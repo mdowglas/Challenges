@@ -51,7 +51,7 @@ projects.forEach((project) => {
 
 const titleInitialPage = "🎨 Front-End Challenges 🧠";
 const InitialDescription =
-  "Este projeto reúne os desafios do curso de Front-End feitos durante o percuso das aulas. Aqui você encontrará experiências práticas, cada uma com foco em diferentes habilidades do desenvolvimento web.";
+  "Este repositório apresenta os desafios realizados ao longo do curso de Front-End. Cada projeto oferece uma experiência prática voltada para o aprimoramento de diferentes habilidades no desenvolvimento web.";
 
 function effectTypewriter(text, tag, time) {
   const lyrics = text.split("");
