@@ -37,7 +37,7 @@ const projects = [
     title: "Pokedex dinâmica - Em desenvolvimento",
     description: "Veja detalhes do pokemon, compare, favorite e muito mais",
     image: "image/presentationImage/dynamicPokeApi.png",
-    link: "https://daviddevfull.github.io/DynamicPokedexAPI/"
+    link: "https://mdowglas.github.io/DynamicPokedexAPI/"
   },
 ];
 
